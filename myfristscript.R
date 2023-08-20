@@ -1,0 +1,6 @@
+library(tidyverse)
+library()
+murders %>% ggplot(aes(population, total, label = abb, color = region)) + geom_label()
+library(tidyverse)
+murders %>% ggplot(aes(population, total, label = abb, color = region)) + geom_label()
+murders %>% ggplot(aes(population, total, label = abb, color = region)) + geom_label()
